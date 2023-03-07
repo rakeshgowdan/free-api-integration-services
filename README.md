@@ -28,3 +28,7 @@ Numverify is a real-time REST API supporting 232 countries. Validate phone numbe
 https://numverify.com/
 
 
+
+# Ref Resources 
+
+https://apilayer.com
